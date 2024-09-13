@@ -56,7 +56,6 @@ WHERE NOT city = 'Jakarta';
 SELECT * FROM users
 WHERE name LIKE 'John%';
 
-
 -- Menggunakan IN operator: Mengambil pengguna yang tinggal di Jakarta, Bandung, atau Surabaya
 SELECT *
 FROM users
