@@ -9,8 +9,8 @@
 2. **Windows dan macOS:**
     - Jalankan perintah berikut untuk menginstal DBeaver di Ubuntu:
 ``` bash
-    sudo apt update
-    sudo apt install dbeaver-ce
+sudo apt update
+sudo apt install dbeaver-ce
 
 ```
 3. **Menghubungkan PostgreSQL:**
